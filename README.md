@@ -13,7 +13,8 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C](https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png){:height="20px"}
+<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" height="20">
+
 
 
 
