@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Ciência da Computação na Pontifícia Universidade Católica de São Paulo (PUC-SP).
+- 💼 Foco em Backend, Python, C e Java.
+- 🌱 Aprendendo mais sobre Framewokrs, SQL, Machine Learning, IA e Redes Neurais.
 
 ## Minhas Skills
 
