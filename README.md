@@ -49,8 +49,8 @@ IN PROGRESS
 
 <div >
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
-	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Arduino" title="Arduino"/></code>
-	<code><img width="30" src="https://imgur.com/qEa48mi" alt="Arduino" title="Arduino"/></code>
+	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" title="PyCharm"/></code>
+	<code><img width="30" src="https://i.imgur.com/qEa48mi.png" alt="Dev-C++ Embarcaderos" title="Dev-C++ Embarcaderos"/></code>
 </div>
 
 
