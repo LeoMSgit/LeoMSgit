@@ -21,7 +21,7 @@
 
 **Teste e Desenvolvimento de APIs**
 
-_ _IN PROGRESS_ _
+_IN PROGRESS..._
 
 <br/>
 
