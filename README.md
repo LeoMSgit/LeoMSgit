@@ -40,8 +40,15 @@ IN PROGRESS
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code>
 </div>
+<br/>
 
 <br/>
+
+**IDEs**
+
+<div >
+	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
+</div>
 
 <a href="https://github.com/LeoMSgit" title="Perfil de Leonardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=dracula&show_icons=true" />
