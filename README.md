@@ -54,7 +54,7 @@ _ _IN PROGRESS_ _
 
 <br/><br/>
 <a href="https://github.com/LeoMSgit" title="Perfil de Leonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=gotham&show_icons=true" />
 </a>
 <br/>
 
