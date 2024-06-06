@@ -12,7 +12,7 @@ Open to Job and Intern Opportunities 💼
 
 
 ## Sobre mim
-- ⭐ Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
+- 🤩 Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
 - 🎓 Estudando Ciência da Computação na Pontifícia Universidade Católica de São Paulo (PUC-SP).
 - 🚀 Foco em Backend, Python, C e Java.
 - 📖 Aprendendo mais sobre Frameworks, SQL e Machine Learning.
