@@ -43,8 +43,6 @@ IN PROGRESS
 </div>
 <br/>
 
-<br/>
-
 **IDEs**
 
 <div >
