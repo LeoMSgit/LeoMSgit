@@ -3,6 +3,7 @@
 Hello, my name is Leonardo Miguel!
 ====================================================================================================================================
 <br/>
+
 ## Sobre mim
 
 - ⭐ Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
