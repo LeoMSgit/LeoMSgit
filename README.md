@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=LeoMSgit&color=006bed)
 
+Hello, my name is Leonardo Miguel!
+====================================================================================================================================
+
 ## Sobre mim
 
 - ⭐ Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
