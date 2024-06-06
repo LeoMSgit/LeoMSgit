@@ -17,12 +17,12 @@
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 </div>
-
-
+<br/>
 
 **Teste e Desenvolvimento de APIs**
-
+<br/>
 -----------
+<br/>
 
 **DevOps**
 
@@ -31,8 +31,7 @@
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
 </div>
-
-
+<br/>
 
 **Ferramentas de desenvolvimento**
 
@@ -46,6 +45,7 @@
 <a href="https://github.com/LeoMSgit" title="Perfil de Leonardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=dracula&show_icons=true" />
 </a>
+<br/>
 
 ## Onde me encontrar
 
