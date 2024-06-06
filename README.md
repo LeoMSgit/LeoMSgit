@@ -4,6 +4,12 @@ Hello, my name is Leonardo Miguel!
 ====================================================================================================================================
 <br/>
 
+## Social
+[![Linkedin](https://img.shields.io/badge/-LeoMSgit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leomsantos/)](https://www.linkedin.com/in/leomsantos/)
+[![Gmail Badge](https://img.shields.io/badge/-leoms--98@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:leoms-98@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/LeoMSgit?label=follow&style=social)](https://github.com/LeoMSgit)
+
+
 ## Sobre mim
 
 - ⭐ Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
@@ -64,9 +70,3 @@ _IN PROGRESS..._
 <br/>
 
 <a href="https://github.com/LeoMSgit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSgit&langs_count=10&theme=gotham&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-LeoMSgit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leomsantos/)](https://www.linkedin.com/in/leomsantos/)
-[![Gmail Badge](https://img.shields.io/badge/-leoms--98@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:leoms-98@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/LeoMSgit?label=follow&style=social)](https://github.com/LeoMSgit)
