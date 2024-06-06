@@ -2,7 +2,7 @@
 
 Hello, my name is Leonardo Miguel!
 ====================================================================================================================================
-<br/>
+Software Engineer in São Paulo, Brazil 🇧🇷<br/>
 
 ## Socials
 [![Linkedin](https://img.shields.io/badge/-LeoMSgit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leomsantos/)](https://www.linkedin.com/in/leomsantos/)
