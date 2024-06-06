@@ -39,6 +39,7 @@ IN PROGRESS
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code>
+	<code><img width="30" src="https://blog.dankicode.com/wp-content/uploads/2019/10/gimp-650x350.png" alt="GIMP" title="GIMP"/></code>
 </div>
 <br/>
 
