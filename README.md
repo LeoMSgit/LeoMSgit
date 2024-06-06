@@ -48,7 +48,7 @@ _ _IN PROGRESS_ _
 <div >
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
 	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" title="PyCharm"/></code>
-	<code><img width="30" src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="30" src="https://i.imgur.com/gT1KQMu.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="30" src="https://i.imgur.com/qEa48mi.png" alt="Dev-C++ Embarcaderos" title="Dev-C++ Embarcaderos"/></code>
 </div>
 
