@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- ⭐ Explorando novas tecnologias e desenvolvendo softwares para o futuro!
+- ⭐ Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
 - 🎓 Estudando Ciência da Computação na Pontifícia Universidade Católica de São Paulo (PUC-SP).
 - 💼 Foco em Backend, Python, C e Java.
-- 🌱 Aprendendo mais sobre Framewokrs, SQL, Machine Learning, IA e Redes Neurais.
+- 🌱 Aprendendo mais sobre Framewokrs, SQL e Machine Learning.
 
 ## Minhas Skills
 
