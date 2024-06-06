@@ -3,6 +3,7 @@
 Hello, my name is Leonardo Miguel!
 ====================================================================================================================================
 Software Engineer in São Paulo, Brazil 🌎<br/>
+Open to Job and Intern Opportunities 💼
 
 ## Socials
 [![Linkedin](https://img.shields.io/badge/-LeoMSgit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leomsantos/)](https://www.linkedin.com/in/leomsantos/)
@@ -14,7 +15,7 @@ Software Engineer in São Paulo, Brazil 🌎<br/>
 
 - ⭐ Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
 - 🎓 Estudando Ciência da Computação na Pontifícia Universidade Católica de São Paulo (PUC-SP).
-- 💼 Foco em Backend, Python, C e Java.
+- 📍  Foco em Backend, Python, C e Java.
 - 🌱 Aprendendo mais sobre Framewokrs, SQL e Machine Learning.
 
 ## Minhas Skills
