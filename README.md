@@ -13,7 +13,7 @@ Hello, my name is Leonardo Miguel!
 
 ## Minhas Skills
 
-**Linguagens**
+**Languages**
 
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -23,7 +23,7 @@ Hello, my name is Leonardo Miguel!
 </div>
 <br/><br/>
 
-**Teste e Desenvolvimento de APIs**
+**Frameworks and APIs**
 
 _IN PROGRESS..._
 
@@ -38,7 +38,7 @@ _IN PROGRESS..._
 </div>
 <br/>
 
-**Ferramentas de desenvolvimento**
+**Ferramentas de Desenvolvimento**
 
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
