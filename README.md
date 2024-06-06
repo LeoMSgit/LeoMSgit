@@ -49,7 +49,11 @@ IN PROGRESS
 
 <div >
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
+	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Arduino" title="Arduino"/></code>
+	<code><img width="30" src="https://imag.malavida.com/mvimgbig/download-fs/dev-c-5018-0.jpg" alt="Arduino" title="Arduino"/></code>
 </div>
+
+
 <br/><br/>
 <a href="https://github.com/LeoMSgit" title="Perfil de Leonardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=dracula&show_icons=true" />
