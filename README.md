@@ -63,7 +63,7 @@ _IN PROGRESS..._
 </a>
 <br/>
 
-<a href="https://github.com/LeoMSgit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSgit&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/LeoMSgit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSgit&langs_count=10&theme=gotham&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## Onde me encontrar
 
