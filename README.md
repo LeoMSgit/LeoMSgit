@@ -3,7 +3,7 @@
 Hello, my name is Leonardo Miguel!
 ====================================================================================================================================
 Software Engineer in São Paulo, Brazil 🌎<br/>
-Open to Job and Intern Opportunities 💼
+Open to Entry Level Jobs and Internship Opportunities 💼
 
 ## Socials
 [![Linkedin](https://img.shields.io/badge/-LeoMSgit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leomsantos/)](https://www.linkedin.com/in/leomsantos/)
