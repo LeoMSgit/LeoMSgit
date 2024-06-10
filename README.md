@@ -11,13 +11,13 @@ Open to Job and Intern Opportunities 💼
 [![GitHub](https://img.shields.io/github/followers/LeoMSgit?label=follow&style=social)](https://github.com/LeoMSgit)
 
 
-## Sobre mim
-- ⭐ Apaixonado por explorar novas tecnologias e desenvolver softwares para o futuro!
-- 🎓 Estudando Ciência da Computação na Pontifícia Universidade Católica de São Paulo (PUC-SP).
-- 🚀 Foco em Backend, Python, C e Java.
-- 📖 Aprendendo mais sobre Frameworks, SQL e Machine Learning.
+## About Me
+- ⭐ Passionate about exploring new technologies and developing software for the future!
+- 🎓 Studying Computer Science at the Pontifical Catholic University of São Paulo (PUC-SP).
+- 🚀 Focus on Backend, Python, C and Java.
+- 📖 Learning more about Frameworks, SQL and Machine Learning.
 
-## Minhas Skills
+## Skills
 
 **Languages**
 
@@ -44,10 +44,11 @@ _IN PROGRESS..._
 </div>
 <br/>
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+	<code><img width="30" src="https://c.clc2l.com/t/a/u/autodesk-tinkercad-evNUiF.png" alt="Tinkercad" title="Tinkercad"/></code>
 	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code>
 	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/316px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" title="GIMP"/></code>
 </div>
