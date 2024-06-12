@@ -65,9 +65,11 @@ _IN PROGRESS..._
 
 
 <br/><br/>
-<a href="https://github.com/LeoMSgit" title="Perfil de Leonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=gotham&show_icons=true" />
-</a>
-<br/>
-
-<a href="https://github.com/LeoMSgit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSgit&langs_count=10&theme=gotham&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/LeoMSgit" title="Perfil de Leonardo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=gotham&show_icons=true" />
+  </a>
+  <a href="https://github.com/LeoMSgit" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSgit&langs_count=10&theme=gotham&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</p>
