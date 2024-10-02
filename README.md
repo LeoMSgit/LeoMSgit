@@ -51,6 +51,7 @@ _IN PROGRESS..._
 	<code><img width="30" src="https://c.clc2l.com/t/a/u/autodesk-tinkercad-evNUiF.png" alt="Tinkercad" title="Tinkercad"/></code>
 	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code>
 	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/316px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" title="GIMP"/></code>
+	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/2048px-Logisim-icon.svg.png" alt="Logisim" title="Logisim"/></code>
 </div>
 <br/>
 
