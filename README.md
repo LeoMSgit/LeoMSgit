@@ -36,6 +36,14 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 </div>
 <br/>
 
+
+### Cloud
+
+<div >
+	<code><img width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" title="Google Colab"/></code>
+</div>
+<br/>
+
 ### DevOps
 
 <div >
