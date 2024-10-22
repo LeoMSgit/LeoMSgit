@@ -33,7 +33,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 
 <div >
 
-<code><img width="60" src="https://media.licdn.com/dms/image/v2/D4D12AQGI5kWrN-Fk2Q/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1703437508428?e=1735171200&v=beta&t=AYV9yNohOUbp7CxRA6N1iAfQnhYo4QavwpnjlLIpS_g" alt="Pandas" title="Pandas"/></code>
+<code><img width="60" src="https://i.imgur.com/NeUrCe5.png" alt="Pandas" title="Pandas"/></code>
 
 </div>
 <br/>
