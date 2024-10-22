@@ -31,9 +31,10 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 
 **Frameworks and APIs**
 
-_IN PROGRESS..._
+	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" title="Pandas"/></code>
 
-<br/>
+</div>
+<br/><br/>
 
 **DevOps**
 
