@@ -40,7 +40,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 ### Cloud
 
 <div >
-	<code><img width="30" src="https://miro.medium.com/v2/resize:fit:1400/1*7oukapIBInsovpHkQB3QZg.jpeg" alt="Google Colab" title="Google Colab"/></code>
+	<code><img width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" title="Google Colab"/></code>
 </div>
 <br/>
 
