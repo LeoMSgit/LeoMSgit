@@ -2,7 +2,7 @@
 
 Hello, my name is Leonardo Miguel!
 ====================================================================================================================================
-Software Engineer in São Paulo, Brazil 🌎<br/>
+Software Developer in São Paulo, Brazil 🌎<br/>
 Open to Entry Level Jobs and Internship Opportunities 💼
 
 ## Socials
