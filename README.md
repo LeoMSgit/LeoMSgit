@@ -33,7 +33,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 
 <div >
 
-<code><img width="60" src="https://i.imgur.com/9y09599.png" alt="Pandas" title="Pandas"/></code>
+<code><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" title="Pandas"/></code>
 
 </div>
 <br/>
