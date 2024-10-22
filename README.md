@@ -19,7 +19,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 
 ## Skills
 
-**Languages**
+### Languages
 
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -29,16 +29,14 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 </div>
 <br/>
 
-**Frameworks and APIs**
+### Frameworks and APIs
 
 <div >
-
-<code><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" title="Pandas"/></code>
-
+	<code><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" title="Pandas"/></code>
 </div>
 <br/>
 
-**DevOps**
+### DevOps
 
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -47,25 +45,26 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 </div>
 <br/>
 
-**Development Tools**
+### Development Tools
+
+**Design Tools**
 
 <div >
-	**Design Tools**
-	</div>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code>
 	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/316px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" title="GIMP"/></code>
-
 </div>
-	**Simulation Tools**
- </div>
- 	<code><img width="30" src="https://c.clc2l.com/t/a/u/autodesk-tinkercad-evNUiF.png" alt="Tinkercad" title="Tinkercad"/></code>
+
+**Simulation Tools**
+
+<div >
+	<code><img width="30" src="https://c.clc2l.com/t/a/u/autodesk-tinkercad-evNUiF.png" alt="Tinkercad" title="Tinkercad"/></code>
 	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/2048px-Logisim-icon.svg.png" alt="Logisim" title="Logisim"/></code>
 	<code><img width="30" src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill-600x594.png" alt="MultiSim" title="MultiSim"/></code>
 </div>
 <br/>
 
-**IDEs**
+### IDEs
 
 <div >
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
@@ -73,7 +72,6 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 	<code><img width="30" src="https://i.imgur.com/gT1KQMu.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="30" src="https://i.imgur.com/qEa48mi.png" alt="Dev-C++ Embarcaderos" title="Dev-C++ Embarcaderos"/></code>
 </div>
-
 
 <br/><br/>
 <p align="center">
