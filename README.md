@@ -40,7 +40,9 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 ### Cloud
 
 <div >
+	<code><img width="30" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" title="Google Colab"/></code>
+	
 </div>
 <br/>
 
