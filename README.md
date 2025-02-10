@@ -32,6 +32,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 ### Frameworks and APIs
 
 <div >
+	<code><img width="60" src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="FlaskAPI" title="FlaskAPI"/></code>
 	<code><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" title="Pandas"/></code>
 </div>
 <br/>
@@ -40,7 +41,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 ### Cloud
 
 <div >
-	<code><img width="30" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" title="Google Colab"/></code>
 	
 </div>
