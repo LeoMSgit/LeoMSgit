@@ -35,7 +35,6 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 
 <div >
 	<code><img width="60" src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="FlaskAPI" title="FlaskAPI"/></code>
-	<code><img width="60" src="https://i.imgur.com/UJC299m.png" alt="Pandas" title="Pandas"/></code>
 </div>
 <br/>
 
