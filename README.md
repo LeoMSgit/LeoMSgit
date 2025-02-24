@@ -42,6 +42,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 
 <div >
 	<code><img width="60" src="https://i.imgur.com/UJC299m.png" alt="Pandas" title="Pandas"/></code>
+	<code><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png" alt="Tesseract OCR" title="Tesseract OCR"/></code>
 	<code><img width="55" src="https://i.imgur.com/YwGagRd.png" alt="NumPy" title="NumPy"/></code>
 	<code><img width="65" src="https://i.imgur.com/hfBdvvT.png" alt="PyTorch" title="PyTorch"/></code>
 </div>
