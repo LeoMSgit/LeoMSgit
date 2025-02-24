@@ -43,7 +43,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 <div >
 	<code><img width="60" src="https://i.imgur.com/UJC299m.png" alt="Pandas" title="Pandas"/></code>
 	<code><img width="55" src="https://i.imgur.com/YwGagRd.png" alt="NumPy" title="NumPy"/></code>
-	<code><img width="60" src="https://i.imgur.com/hfBdvvT.png" alt="NumPy" title="NumPy"/></code>
+	<code><img width="65" src="https://i.imgur.com/hfBdvvT.png" alt="NumPy" title="NumPy"/></code>
 </div>
 <br/>
 
