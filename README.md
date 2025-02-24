@@ -38,6 +38,13 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 </div>
 <br/>
 
+### Libraries
+
+<div >
+	<code><img width="60" src="https://i.imgur.com/NeUrCe5.png" alt="Pandas" title="Pandas"/></code>
+</div>
+<br/>
+
 
 ### Cloud
 
