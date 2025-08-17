@@ -45,7 +45,7 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 	<code><img width="55" src="https://i.imgur.com/aa1G5vn.png" alt="Tesseract OCR" title="Tesseract OCR"/></code>
 	<code><img width="55" src="https://i.imgur.com/YwGagRd.png" alt="NumPy" title="NumPy"/></code>
 	<code><img width="65" src="https://i.imgur.com/hfBdvvT.png" alt="PyTorch" title="PyTorch"/></code>
-	<code><img width="65" src="https://adictosaltrabajo.com/wp-content/uploads/2023/05/hf-logo-with-title.png" alt="Hugging Face" title="Hugging Face"/></code>
+	<code><img width="65" src="https://i.imgur.com/sDUBRVj.png" alt="Hugging Face" title="Hugging Face"/></code>
 </div>
 <br/>
 
