@@ -3,7 +3,7 @@
 Hello, my name is Leonardo Miguel!
 ====================================================================================================================================
 Software Developer in São Paulo, Brazil 🌎<br/>
-Open to Entry Level Jobs and Internship Opportunities 💼
+Open to Junior and Entry Level Jobs Opportunities 💼
 
 ## Socials
 [![Linkedin](https://img.shields.io/badge/-LinkedIn/leomsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leomsantos/)](https://www.linkedin.com/in/leomsantos/)
@@ -13,9 +13,9 @@ Open to Entry Level Jobs and Internship Opportunities 💼
 
 ## About Me
 - ⭐ Passionate about exploring new technologies and developing software for the future!
-- 🎓 Studying Computer Science at the Pontifical Catholic University of São Paulo (PUC-SP).
-- 🚀 Focus on Backend, Python, C and Java.
-- 📖 Learning more about Frameworks, SQL and Machine Learning.
+- 🎓 Studying Computer Science at the Universidade São Judas Tadeu (USJT).
+- 🚀 Focus on Backend, Python, MySQL.
+- 📖 Learning more about Machine Learning, Computer Vision, and NLP.
 
 ## Skills
 
