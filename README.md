@@ -96,22 +96,6 @@ Open to Junior and Entry-Level Job Opportunities 💼
 	<code><img width="30" src="https://i.imgur.com/qEa48mi.png" alt="Dev-C++ Embarcaderos" title="Dev-C++ Embarcaderos"/></code>
 </div>
 
-<br/><br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoMSgit&theme=gotham&show_icons=true)](https://github.com/LeoMSgit)
 
-<p align="center">
-  <a href="https://github.com/LeoMSgit" title="Perfil de Leonardo">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=LeoMSgit&amp;theme=gotham&amp;show_icons=true" 
-      alt="GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/LeoMSgit" title="Linguagens mais usadas">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSgit&amp;langs_count=10&amp;layout=compact&amp;theme=gotham&amp;locale=en&amp;custom_title=Top%20Languages" 
-      alt="Top Languages"
-    />
-  </a>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSgit&langs_count=10&layout=compact&theme=gotham&locale=en&custom_title=Top%20Languages)](https://github.com/LeoMSgit)
