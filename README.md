@@ -75,14 +75,14 @@ Open to Junior and Entry-Level Job Opportunities 💼
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code>
-	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/316px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" title="GIMP"/></code>
+	<code><img width="30" src="https://www.ic.unicamp.br/~islene/2s2016-mc039/js/gimp.jpg" alt="GIMP" title="GIMP"/></code>
 </div>
 
 **Simulation Tools**
 
 <div >
 	<code><img width="30" src="https://c.clc2l.com/t/a/u/autodesk-tinkercad-evNUiF.png" alt="Tinkercad" title="Tinkercad"/></code>
-	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/2048px-Logisim-icon.svg.png" alt="Logisim" title="Logisim"/></code>
+	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/1280px-Logisim-icon.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Logisim" title="Logisim"/></code>
 	<code><img width="30" src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill-600x594.png" alt="MultiSim" title="MultiSim"/></code>
 </div>
 <br/>
@@ -91,7 +91,7 @@ Open to Junior and Entry-Level Job Opportunities 💼
 
 <div >
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
-	<code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" title="PyCharm"/></code>
+	<code><img width="30" src="https://lp.jetbrains.com/static/upl/5154/2025/09/01/172017-0.9229018.png" alt="PyCharm" title="PyCharm"/></code>
 	<code><img width="30" src="https://i.imgur.com/gT1KQMu.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="30" src="https://i.imgur.com/qEa48mi.png" alt="Dev-C++ Embarcaderos" title="Dev-C++ Embarcaderos"/></code>
 </div>
